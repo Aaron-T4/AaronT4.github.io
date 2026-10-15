@@ -7,10 +7,12 @@ This is my university work, working and understanding ai with different games
 <p></p>
 
 <ul>
-
+week 1
  (https://robocarpet-autonomous-vacuum-simulator.ai.studio/)
 <p></p>
-
+  week 2
   (https://stalker-maze-tactical-evade-survive.ai.studio/)
+<p></p>
 
+ 
 </ul>
