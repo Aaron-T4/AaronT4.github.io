@@ -21,7 +21,7 @@ week 3
 <p></p>
 
 week 4
-<a href="(https://feathered-tictac-twist-play.base44.app)">Tri path visualier</a>
+<a href="(https://feathered-tictac-twist-play.base44.app)">Tic tac toe</a>
 
 
 </ul>
