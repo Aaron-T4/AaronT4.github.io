@@ -25,3 +25,18 @@ week 4
 
 
 </ul>
+week 5 
+
+</ul>
+
+<p></p>
+week 6
+</ul>
+
+<p></p>
+
+week 7 
+<a href="(https://delectable-zombie-logic-lab.base44.app))"> probability grid</a>
+
+
+</ul>
