@@ -26,7 +26,7 @@ week 4
 
 </ul>
 week 5 
-
+https://aistudio.google.com/apps/de0885ed-6f37-4e3a-98c9-71ff907f9675?showPreview=true&showAssistant=true
 </ul>
 
 <p></p>
@@ -40,3 +40,7 @@ week 7
 
 
 </ul>
+<p></p>
+
+week 8
+<a href="https://lifeflow-pixel-pulse.base44.app"> flocking + ant colony + </a>
